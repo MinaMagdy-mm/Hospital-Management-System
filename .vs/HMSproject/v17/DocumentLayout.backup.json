@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Mina\\Downloads\\New folder\\Hospital-Management-System-Master\\HMSproject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0F37D63F-B752-4DF6-A587-D6B6FB5C6B8C}|HMSproject.csproj|c:\\users\\mina\\downloads\\new folder\\hospital-management-system-master\\hmsproject\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0F37D63F-B752-4DF6-A587-D6B6FB5C6B8C}|HMSproject.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F37D63F-B752-4DF6-A587-D6B6FB5C6B8C}|HMSproject.csproj|c:\\users\\mina\\downloads\\new folder\\hospital-management-system-master\\hmsproject\\areas\\identity\\pages\\account\\manage\\deletepersonaldata.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F37D63F-B752-4DF6-A587-D6B6FB5C6B8C}|HMSproject.csproj|solutionrelative:areas\\identity\\pages\\account\\manage\\deletepersonaldata.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F37D63F-B752-4DF6-A587-D6B6FB5C6B8C}|HMSproject.csproj|c:\\users\\mina\\downloads\\new folder\\hospital-management-system-master\\hmsproject\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0F37D63F-B752-4DF6-A587-D6B6FB5C6B8C}|HMSproject.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F37D63F-B752-4DF6-A587-D6B6FB5C6B8C}|HMSproject.csproj|c:\\users\\mina\\downloads\\new folder\\hospital-management-system-master\\hmsproject\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0F37D63F-B752-4DF6-A587-D6B6FB5C6B8C}|HMSproject.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F37D63F-B752-4DF6-A587-D6B6FB5C6B8C}|HMSproject.csproj|c:\\users\\mina\\downloads\\new folder\\hospital-management-system-master\\hmsproject\\controllers\\nurse_aymancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F37D63F-B752-4DF6-A587-D6B6FB5C6B8C}|HMSproject.csproj|solutionrelative:controllers\\nurse_aymancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F37D63F-B752-4DF6-A587-D6B6FB5C6B8C}|HMSproject.csproj|c:\\users\\mina\\downloads\\new folder\\hospital-management-system-master\\hmsproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0F37D63F-B752-4DF6-A587-D6B6FB5C6B8C}|HMSproject.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Mina\\Downloads\\New folder\\Hospital-Management-System-Master\\HMSproject\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Mina\\Downloads\\New folder\\Hospital-Management-System-Master\\HMSproject\\Views\\Shared\\_Layout.cshtml*",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml*",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAABAAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-23T22:40:05.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Mina\\Downloads\\New folder\\Hospital-Management-System-Master\\HMSproject\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Mina\\Downloads\\New folder\\Hospital-Management-System-Master\\HMSproject\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-23T22:39:40.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Mina\\Downloads\\New folder\\Hospital-Management-System-Master\\HMSproject\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Mina\\Downloads\\New folder\\Hospital-Management-System-Master\\HMSproject\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-23T22:39:38.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DeletePersonalData.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Mina\\Downloads\\New folder\\Hospital-Management-System-Master\\HMSproject\\Areas\\Identity\\Pages\\Account\\Manage\\DeletePersonalData.cshtml.cs",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Manage\\DeletePersonalData.cshtml.cs",
+              "ToolTip": "C:\\Users\\Mina\\Downloads\\New folder\\Hospital-Management-System-Master\\HMSproject\\Areas\\Identity\\Pages\\Account\\Manage\\DeletePersonalData.cshtml.cs",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Manage\\DeletePersonalData.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGMAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T22:11:42.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Nurse_aymanController.cs",
+              "DocumentMoniker": "C:\\Users\\Mina\\Downloads\\New folder\\Hospital-Management-System-Master\\HMSproject\\Controllers\\Nurse_aymanController.cs",
+              "RelativeDocumentMoniker": "Controllers\\Nurse_aymanController.cs",
+              "ToolTip": "C:\\Users\\Mina\\Downloads\\New folder\\Hospital-Management-System-Master\\HMSproject\\Controllers\\Nurse_aymanController.cs",
+              "RelativeToolTip": "Controllers\\Nurse_aymanController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBIAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T22:09:50.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Mina\\Downloads\\New folder\\Hospital-Management-System-Master\\HMSproject\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Mina\\Downloads\\New folder\\Hospital-Management-System-Master\\HMSproject\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAB7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-23T21:43:09.847Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
